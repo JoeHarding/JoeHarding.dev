@@ -67,7 +67,12 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+video {
 
+	position: relative;
+	width: 100%;
+	height: auto;
+}
 /* Basic */
 
 	@-ms-viewport {
