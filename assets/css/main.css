@@ -49,6 +49,7 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	
 }
 
 mark {
@@ -73,6 +74,17 @@ video {
 	width: 100%;
 	height: auto;
 }
+
+.certifications{
+	margin-top: 50px;
+}
+
+#aboutbutton{
+  margin-top: 50px;
+  margin-bottom: 40px;
+} 
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -244,6 +256,7 @@ video {
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
 
+
 	code {
 		border: solid 2px;
 		font-family: "Courier New", monospace;
@@ -309,6 +322,8 @@ video {
 	h1, h2, h3, h4, h5, h6 {
 		color: #212931;
 	}
+
+
 
 	blockquote {
 		border-left-color: #eeeeee;
